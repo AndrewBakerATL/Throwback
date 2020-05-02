@@ -20,3 +20,8 @@ No, for a few reasons. First, even if we were storing one copy of each work, the
 
 ## If there's no monetization, how are you going to keep this up?
 While we're against immediate monetization, there has be consideration to allow auxiliary monetization over certain parts of the intended platform, pending content type and execution therein. We also may allow for donations, or recurring donations, at a point.
+
+## Will this damage IP holders?
+In our opinion, no. We think it will actually help them. It should allow for older archived content to be served to a wider audience, garnering more favor towards ideal or favored companies, which will be mentioned and made notation of, almost akin to a free broad-spectrum advertising campaign.
+
+By-extension, this should increase subscriptions or ratings on those platforms respectively, as a show of support towards the work and effort that has been seen thus far. 
