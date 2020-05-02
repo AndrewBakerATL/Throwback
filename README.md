@@ -1,6 +1,9 @@
 # Throwback
 A library of older shows and archived footage, consolidated into one platform.
 
+## Requirements
+* SAPI (Streaming API) (Lavalink)
+
 ## Planned Support
 * Discord (Desktop, Mobile)
 * Browser Support
