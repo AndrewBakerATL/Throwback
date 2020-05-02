@@ -24,4 +24,7 @@ While we're against immediate monetization, there has be consideration to allow 
 ## Will this damage IP holders?
 In our opinion, no. We think it will actually help them. It should allow for older archived content to be served to a wider audience, garnering more favor towards ideal or favored companies, which will be mentioned and made notation of, almost akin to a free broad-spectrum advertising campaign.
 
-By-extension, this should increase subscriptions or ratings on those platforms respectively, as a show of support towards the work and effort that has been seen thus far. 
+By-extension, this should increase subscriptions or ratings on those platforms respectively, as a show of support towards the work and effort that has been seen thus far.
+
+## Would you be open to potential monetization?
+It would have to adhere to our own terms, but yes. Should a company see their content on the platform and want to accrue funding from it, we're not against deploying a monetization model and, while taking a nominal processing fee, divert funds to the pertinent parent company (once we have the ability).
