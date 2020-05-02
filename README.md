@@ -8,12 +8,12 @@ A library of older shows and archived footage, consolidated into one platform.
 * Mobile App (iOS, Android)
 
 ## Planned Features
-Video Stream
-Discord Bot
-Audio Stream
-Show Database
-Level System
-Reviews
+* Video Stream
+* Discord Bot
+* Audio Stream
+* Show Database
+* Level System
+* Reviews
 
 ## What This Is:
 Throwback is a compiled library of links to archived footage and assets, compiled from different sources around the internet, pertaining to older shows, cartoons, and other forms of entertainment. We aren't hosting any of the content or static files ourselves, only acting as an intermediary.
