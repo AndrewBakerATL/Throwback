@@ -1,0 +1,9 @@
+{
+  "client": {
+    "token": "",
+    "prefix": ".",
+    "status": "prerelease"
+  },
+  "admins": {
+  }
+}
