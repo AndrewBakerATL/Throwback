@@ -1,5 +1,15 @@
+import requests
 import discord
 from discord.ext import commands
+import random
+import asyncio
+import os
+from itertools import cycle
+import json
+import subprocess
+from time import sleep
+import time
+import datetime
 from apiclient.discovery import build
 
 
@@ -30,7 +40,7 @@ class Search(commands.Cog):
         embed = discord.Embed(color = 0x00AF20)
         embed.set_footer(text='Google Search')
         for item in results:
-            embed.add_field(name="**Search Entry: {}**".format(item['title']), value="{}\n{}\n \n ".format(item['link'], item['snippet']), inline=False)
+            embed.add_field(name="**{}**".format(item['title']), value="{}\n{}\n \n ".format(item['link'], item['snippet']), inline=False)
         await ctx.send(embed=embed)
 
 def setup(client):

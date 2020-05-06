@@ -1,7 +1,14 @@
+import requests
 import discord
 from discord.ext import commands
+import random
+import asyncio
 import os
+from itertools import cycle
 import json
+import subprocess
+from time import sleep
+from errors import errors
 
 with open('./data/config.json') as json_file:
     data = json.load(json_file)
